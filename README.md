@@ -22,4 +22,19 @@
 > 7. Swagger and Redocs (https://pypi.org/project/drf-yasg/)
 
 ## Configs
-> Go to the settings.py for broader view.
+>   Go to the settings.py for broader view.
+
+## Docs
+>   
+
+## Features
+>   
+
+
+## Maintainers
+
+[@mutantworks](https://github.com/mutantworks).
+
+## License
+
+[MIT](LICENSE) © Meetkumar Charola
