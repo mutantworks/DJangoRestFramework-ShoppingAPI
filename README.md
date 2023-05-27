@@ -32,7 +32,11 @@
 >   >   ![DOCS](https://github.com/mutantworks/DJangoRestFramework-ShoppingAPI/blob/master/docs/Redocs.png)
 
 ## Features
->   
+>   1. Api for Shopping
+>   2. Social media logging through gmail
+>   3. JWT Token authentication
+>   4. API Documentation using Swagger and Redoc
+>   5. API Realtime Logging
 
 
 ## Maintainers
