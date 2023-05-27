@@ -24,8 +24,12 @@
 ## Configs
 >   Go to the settings.py for broader view.
 
-## Docs
->   
+## Documentation
+>   Swagger (http://127.0.0.1:8000/swagger) 
+>   >   ![DOCS](https://github.com/mutantworks/DJangoRestFramework-ShoppingAPI/blob/master/docs/Swagger.png)
+> 
+>   ReDocs (http://127.0.0.1:8000/redoc)
+>   >   ![DOCS](https://github.com/mutantworks/DJangoRestFramework-ShoppingAPI/blob/master/docs/Redocs.png)
 
 ## Features
 >   
