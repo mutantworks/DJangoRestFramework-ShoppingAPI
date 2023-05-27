@@ -18,8 +18,9 @@
 > 3. Sql-Lite (https://www.sqlite.org/index.html)
 > 4. Simple JWP (https://django-rest-framework-simplejwt.readthedocs.io/en/latest/)
 > 5. Google Auth (https://pypi.org/project/google-auth/)
-> 6. Swagger (https://swagger.io/specification/)
-> 7. Swagger and Redocs (https://pypi.org/project/drf-yasg/)
+> 6. Api Logger (https://pypi.org/project/drf-api-logger/)
+> 7. Swagger (https://swagger.io/specification/)
+> 8. Swagger and Redocs (https://pypi.org/project/drf-yasg/)
 
 ## Configs
 >   Go to the settings.py for broader view.
