@@ -6,7 +6,7 @@
 
 - [Exploration](#exploration)
 - [Configs](#configs)
-- [Docs](#usage)
+- [Documentation](#documentation)
 - [Features](#features)
 - [Maintainers](#maintainers)
 - [License](#license)
